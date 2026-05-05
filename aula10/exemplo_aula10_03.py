@@ -14,6 +14,6 @@ except ZeroDivisionError:
 else:
     print(f'Média por funcionários = {media_por_func: .2f}')
 
-#com ou sem erro bloco será executado.
+#com ou sem erro bloco será executado....
 finally:
     print('\nPrograma encerrado!')
